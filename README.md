@@ -15,11 +15,11 @@ A lightweight Python-based tool for file and text encryption/decryption using AE
 
 ---
 
-## 🖥 GUI Preview
+## GUI Preview
 
 > Add a screenshot in `screenshots/` and link it here
 
-![GUI Screenshot](screenshots/demo.png)
+![GUI Screenshot](screenshots/demo1.png)
 
 ---
 
