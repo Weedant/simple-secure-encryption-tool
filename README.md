@@ -16,14 +16,12 @@ A lightweight Python-based tool for file and text encryption/decryption using AE
 ---
 
 ## GUI Preview
-![demo3](https://github.com/user-attachments/assets/447e463a-1771-42b5-8dae-64164569f8fd)
 
+![demo1](https://github.com/user-attachments/assets/c958f4b8-3313-4ece-ad7b-1a5d8330bee2)
 
 ![demo2](https://github.com/user-attachments/assets/bc61fb82-8c42-40e2-833f-bf5aaa4a3c78)
 
-
-![Screenshot 2025-07-06 223325](https://github.com/user-attachments/assets/26747a81-1605-4807-8ca6-bdac7216036a)
-
+![demo3](https://github.com/user-attachments/assets/9fe5e81e-a4a1-4f06-80db-93b0ca704d93)
 
 ---
 
